@@ -1,0 +1,9 @@
+
+SUMMARY
+-------
+Unpruned Decision Tree test accuracy : 0.985
+Pruned Decision Tree (depth=9) test accuracy : 0.985
+Random Forest test accuracy          : 1.000
+Decision Tree 5-fold CV mean         : 0.998
+Random Forest 5-fold CV mean        : 0.997
+Top 3 important features            : ['cp', 'thalach', 'ca']
